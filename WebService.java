@@ -1,4 +1,8 @@
-package eu.gsottbauer.divisiontrainer.SOAP;
+/**
+ * KryptoHelper 1.0 Copyright Stefan Gsottbauer © 2015. all rights reserved
+ *
+ * @author: Stefan Gsottbauer
+ */
 
 import org.ksoap2.SoapEnvelope;
 import org.ksoap2.serialization.SoapObject;
@@ -12,7 +16,7 @@ import eu.gsottbauer.divisiontrainer.helper.KryptoHelper;
 
 public class WebService {
 
-    private final String mUserManagerServiceURL = "http://schule.learninglab.tugraz.at/usermanager/soap";
+    private final String mUserManagerServiceURL = "http://schule-dev.tugraz.at/usermanager/soap?wsdl";
     private final int mAppId = **;
     private final String mAppKey = "******************************************************";
 
