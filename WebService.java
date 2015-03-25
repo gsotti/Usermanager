@@ -12,7 +12,6 @@ import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
 
-import eu.gsottbauer.divisiontrainer.helper.KryptoHelper;
 
 public class WebService {
 
