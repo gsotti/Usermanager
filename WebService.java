@@ -1,5 +1,5 @@
 /**
- * KryptoHelper 1.0 Copyright Stefan Gsottbauer © 2015. all rights reserved
+ * WebService.java 1.0 Copyright Stefan Gsottbauer © 2015. all rights reserved
  *
  * @author: Stefan Gsottbauer
  */
